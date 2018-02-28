@@ -61,4 +61,8 @@ public class FirePokemon extends Pokemon {
         return false;
     }
 
+    public String getSpecialtyAttack() {
+        return specialtyAttack;
+    }if (Pokemon opponent)
+ return false;
 }
